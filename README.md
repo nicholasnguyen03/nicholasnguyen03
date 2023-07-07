@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in CS and Cybersecurity and Exotic Animals
+- 👀 I’m interested in CS/ Cybersecurity and Exotic Animals
 - 🌱 I’m currently learning Programming II
 - 💞️ I have 2 sugar gliders, 7 geckos, and more
 - 📫 Reach me at Nicholasnguyen03@gmail.com
