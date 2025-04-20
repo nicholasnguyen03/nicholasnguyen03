@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in CS/ Cybersecurity 
+- 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning all I can about Networks and Network Security
 - 📫 Reach me at Nicholasnguyen03@gmail.com
 
